@@ -5,13 +5,13 @@
 HAMMAM ALAOUI 
 
 ## Dépôts réalisés
-- Exercice 1 : [calcul-c](https://github.com/alaoui-hammam/calcul-c)
-- Exercice 2 (binôme) : [calcul-c-equipe](https://github.com/alaoui-hammam/calcul-c-equipe)
+- Exercice 1 : [calcul-c](https://github.com/alaoui-hammam/calcul-C)
+- Exercice 2 (binôme) : [calcul-c-equipe](https://github.com/alaoui-hammam/calcul-C-equipe)
   - Mon rôle : alaoui-hammam : A
   - Binôme : alaoui-homam : B
 
 ## Pull request fusionnée
-[https://github.com/<...>/pull/<n>](https://github.com/alaoui-hammam/calcul-c-equipe/pull/1)
+[https://github.com/<...>/pull/<n>](https://github.com/alaoui-hammam/calcul-C-equipe/pull/1)
 
 ## Bilan des commandes Git
 
@@ -29,8 +29,8 @@ nothing to commit, working tree clean
 **Rôle :** liste les dépôts distants (remotes) liés au dépôt local, avec leurs URL en fetch (récupération) et en push (envoi). Il permet de vérifier que le dépôt pointe bien vers le bon GitHub.
 
 ```text
-origin  https://github.com/<user>/calcul-c-equipe.git (fetch)
-origin  https://github.com/<user>/calcul-c-equipe.git (push)
+origin  https://github.com/<user>/calcul-C-equipe.git (fetch)
+origin  https://github.com/<user>/calcul-C-equipe.git (push)
 ```
 
 ### `git log --oneline --graph --all`
