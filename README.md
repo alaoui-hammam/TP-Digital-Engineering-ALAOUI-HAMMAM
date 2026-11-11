@@ -5,8 +5,8 @@
 HAMMAM ALAOUI 
 
 ## Dépôts réalisés
-- Exercice 1 : [calcul-c](https://github.com/alaoui-hammam/calcul-C)
-- Exercice 2 (binôme) : [calcul-c-equipe](https://github.com/alaoui-hammam/calcul-C-equipe)
+- Exercice 1 : [calcul-C](https://github.com/alaoui-hammam/calcul-C)
+- Exercice 2 (binôme) : [calcul-C-equipe](https://github.com/alaoui-hammam/calcul-C-equipe)
   - Mon rôle : alaoui-hammam : A
   - Binôme : alaoui-homam : B
 
